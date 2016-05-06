@@ -11,5 +11,13 @@
     "nova"
   ],
   "author": "GEMME",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gemme/fillnova.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gemme/fillnova/issues"
+  },
+  "homepage": "https://github.com/gemme/fillnova#readme"
 }
